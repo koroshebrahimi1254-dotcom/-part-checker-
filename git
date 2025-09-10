@@ -1,0 +1,8 @@
+```bash
+git init
+git add .
+git commit -m "اولین commit - اپلیکیشن پارت چکر"
+git branch -M main
+git remote add origin https://github.com/koroushbrahim1254-dotcom/part-checker.git
+git push -u origin main
+```
